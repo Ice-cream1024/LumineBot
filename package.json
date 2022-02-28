@@ -1,0 +1,13 @@
+{
+  "name": "bot",
+  "version": "0.0.0",
+  "description": "bot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "ws": "^8.5.0"
+  }
+}

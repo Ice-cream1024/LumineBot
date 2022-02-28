@@ -1,0 +1,6 @@
+C:\Users\隰桑\Desktop\QQ bot\bot\bot\obj\Debug\bot.njsproj.AssemblyReference.cache
+C:\Users\隰桑\Desktop\QQ bot\bot\bot\obj\Debug\bot.njsproj.CoreCompileInputs.cache
+C:\Users\隰桑\Desktop\QQ bot\bot\bot\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\NekoNeko\Desktop\QQ bot\bot\bot\obj\Debug\bot.njsproj.AssemblyReference.cache
+C:\Users\NekoNeko\Desktop\QQ bot\bot\bot\obj\Debug\bot.njsproj.CoreCompileInputs.cache
+C:\Users\NekoNeko\Desktop\QQ bot\bot\bot\bin\Microsoft.NodejsTools.WebRole.dll
